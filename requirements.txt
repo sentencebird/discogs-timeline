@@ -1,3 +1,4 @@
 streamlit
 streamlit_timeline
 discogs_client
+bs4
